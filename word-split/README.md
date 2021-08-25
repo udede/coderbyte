@@ -6,4 +6,4 @@ Have the function `WordSplit(strArr)` read the array of strings stored in `strAr
 Your program should return the two words that exist in the dictionary separated by a comma. So for the example above, your program should return `hello,cat`. There will only be one correct way to split the first element of characters into two words. If there is no way to split string into two words that exist in the dictionary, return the string not possible. The first element itself will never exist in the dictionary as a real word.
 
 ## Solution
-View [solution.js](https://github.com/udede/word-split-test/blob/main/solution.js)
+View [solution.js](https://github.com/udede/coderbyte/blob/main/word-split/solution.js)
