@@ -8,6 +8,6 @@ You should also implement a function to determine if any player won by getting 3
 You are free to add classes and styles, but make sure you leave the element ID's as they are. Submit your code once it is complete and our system will validate your output.
 
 ## Solution
-View [solution.js](#)
+View [solution.ts](https://github.com/udede/coderbyte/blob/main/angular-tic-tac-toe/solution.ts)
 
 ![Preview](https://github.com/udede/coderbyte/raw/main/angular-tic-tac-toe/preview.gif)
