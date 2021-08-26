@@ -24,4 +24,4 @@ Output: affhkkse
 `string manipulation` `searching` `hash table` `Google` `Facebook` `Amazon` `free` `video`
 
 ## Solution
-View [solution.js](#)
+View [solution.js](https://github.com/udede/coderbyte/blob/main/min-window-substring/solution.js)
