@@ -9,3 +9,5 @@ You are free to add classes and styles, but make sure you leave the element ID's
 
 ## Solution
 View [solution.js](#)
+
+![Preview](https://github.com/udede/coderbyte/raw/main/angular-tic-tac-toe/preview.gif)
