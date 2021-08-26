@@ -16,4 +16,10 @@ This repository contains some Coderbyte solutions.
     </td>
     <td style="vertical-align: middle;"><a href="https://github.com/udede/coderbyte/tree/main/word-split">Word Split</a></td>
   </tr>
+  <tr>
+    <td style="vertical-align: middle;display:flex; text-align:right;">
+      <div style="position: relative; top: 3px;"><img height="20" src="https://img.shields.io/badge/-HARD-red?style=flat-square"/></div>
+    </td>
+    <td style="vertical-align: middle;"><a href="https://github.com/udede/coderbyte/tree/main/angular-tic-tac-toe">Angular Tic Tac Toe</a></td>
+  </tr>
 </table>
