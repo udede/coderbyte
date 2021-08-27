@@ -24,3 +24,6 @@ Output: false
 
 ## Tags
 `arraybinary` `treedata` `engineer` `Google` `Facebook`
+
+## Solution
+View [solution.js](https://github.com/udede/coderbyte/blob/main/tree-constructor/solution.js)
