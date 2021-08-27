@@ -18,4 +18,4 @@ Output: 1
 `searching` `stack` `recursion` 
 
 ## Solution
-View [solution.js](https://github.com/udede/coderbyte/blob/main/bracket-combinations/solution.js)
+View [solution.js](https://github.com/udede/coderbyte/blob/main/bracket-matcher/solution.js)
