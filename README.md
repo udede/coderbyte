@@ -23,7 +23,7 @@
     <td style="vertical-align: middle;display:flex; text-align:right;">
       <div style="position: relative; top: 3px;"><img height="20" src="https://img.shields.io/badge/-MEDIUM-yellow?style=flat-square"/></div>
     </td>
-    <td style="vertical-align: middle;"><a href="https://github.com/udede/coderbyte/tree/main/tree-constructor">Tree Contructor</a></td>
+    <td style="vertical-align: middle;"><a href="https://github.com/udede/coderbyte/tree/main/tree-constructor">Tree Constructor</a></td>
   </tr>
 </table>
 
