@@ -21,7 +21,7 @@ Input: ["aaffhkksemckelloe", "fhea"]
 Output: affhkkse
 ```
 ## Tags
-`string manipulation` `searching` `hash table` `Google` `Facebook` `Amazon` `free` `video`
+`string manipulation` `searching` `hash table` `Google` `Facebook` `Amazon`
 
 ## Solution
 View [solution.js](https://github.com/udede/coderbyte/blob/main/min-window-substring/solution.js)
