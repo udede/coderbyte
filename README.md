@@ -1,8 +1,9 @@
 <img src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" width="300" />
 
 # Coderbyte Challenges
+[Coderbyte](https://coderbyte.com/) is a web application built to help you practice programming and improve your coding skills. They offer a collection of code challenges and web development courses that can help you prepare for upcoming job interviews. The coding challenges range in difficulty and they can all be completed straight in their online editor.
 
-This repository contains some Coderbyte challenges I've solved.
+> This repository contains some Coderbyte challenges I've solved
 
 ## Medium
 <table>
