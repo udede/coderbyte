@@ -1,8 +1,8 @@
 <img src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" width="300" />
 
-# Coderbyte Solutions
+# Coderbyte Challenges
 
-This repository contains some Coderbyte solutions.
+This repository contains some Coderbyte challenges I've solved.
 <table>
   <tr>
     <td style="vertical-align: middle;display:flex; text-align:right;">
