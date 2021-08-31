@@ -27,4 +27,4 @@ Output: X-W
 
 
 ## Solution
-View [solution.js](https://github.com/udede/coderbyte/blob/main/bracket-combinations/solution.js)
+View [solution.js](https://github.com/udede/coderbyte/blob/main/shortest-path/solution.js)
