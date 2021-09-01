@@ -54,4 +54,10 @@
     </td>
     <td style="vertical-align: middle;"><a href="https://github.com/udede/coderbyte/tree/main/shortest-path">Shortest Path</a></td>
   </tr>
+   <tr>
+    <td style="vertical-align: middle;display:flex; text-align:right;">
+      <div style="position: relative; top: 3px;"><img height="20" src="https://img.shields.io/badge/-HARD-red?style=flat-square"/></div>
+    </td>
+    <td style="vertical-align: middle;"><a href="https://github.com/udede/coderbyte/tree/main/optimal-assignments">Optimal Assignment</a></td>
+  </tr>
 </table>
