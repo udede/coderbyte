@@ -2,12 +2,12 @@ function TransitivityRelations(strArr) {
   let arr = [];
   let res = [];
   for (let i=0; i<strArr.length; i++) {
-    arr.push(strArr[i].replace("(","").replace(")","").split(","));  // [ [ 1, 1, 1 ], [ 0, 1, 1 ], [ 0, 1, 1 ] ]
+    arr.push(strArr[i].replace("(","").replace(")","").split(","));
   }
   
   for (let j in arr) {
     for (let k in arr[j]) {
-        arr[j][k] = Number(arr[j][k]); // converts to numbers
+        arr[j][k] = Number(arr[j][k]);
     }
   }
   
